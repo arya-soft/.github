@@ -1,7 +1,7 @@
 ## Hey 👋, Welcome to arya art!
 
-<a href="https://www.linkedin.com/company/arya-art-advertising/"><img src="https://raw.githubusercontent.com/arya-soft/.github/main/images/linkedin.png" alt="icon | LinkedIn" height="30"/></a>
-<a href="https://www.instagram.com/aryaadvertising/"><img src="https://raw.githubusercontent.com/arya-soft/.github/main/images/instagram.png" alt="icon | Instagram" height="30"/></a>
+<a href="https://www.linkedin.com/company/arya-art-advertising/" style="padding-right:8px;"><img src="https://raw.githubusercontent.com/arya-soft/.github/main/images/linkedin.png" alt="icon | LinkedIn" height="30" /></a>
+<a href="https://www.instagram.com/aryaadvertising/" style="padding-right:8px;"><img src="https://raw.githubusercontent.com/arya-soft/.github/main/images/instagram.png" alt="icon | Instagram" height="30"/></a>
 <a href="https://www.facebook.com/aryaartadvertising"><img src="https://raw.githubusercontent.com/arya-soft/.github/main/images/facebook.png" alt="icon | Facebook" height="30"/></a>
 
 
