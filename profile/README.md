@@ -66,11 +66,6 @@ We specialize in creating innovative websites🌐, systems, and mobile applicati
 <br>
 
 ### 🛠️ Our Projects
-<a href="https://system.aryaartagency.com" target="_blank" > 
-    <img alt="arya art system" src="https://raw.githubusercontent.com/arya-soft/.github/main/images/arya-art-logo.jpeg" height="68" align="left"> 
-</a>
-<a href="https://github.com/rahul-jha98/sheets-database" target="_blank"> <img alt="sheetsdatabase" src="./projects/sheetsdatabase.svg"  height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/README_icons" target="_blank"> <img alt="readmeicons" src="./projects/readmeicons.svg" height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/PasswordKeeper" target="_blank"> <img alt="passwordkeeper" src="./projects/passwordkeeper.svg" height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/PasswordKeeper" target="_blank"> <img alt="oxytracker" src="./projects/oxytracker.svg" height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/PasswordKeeper" target="_blank"> <img alt="wavelength" src="./projects/wavelength.svg" height="68" align="left"> </a>
+- [Arya art agency system](https://aryaartagency.com) - A system that manages all of the resources in arya art agency company.
+- [Arya art app](https://apps.apple.com/us/app/arya-art/id6499256352) - Mobile application for arya art agency company to connect with clients and users easily.
+-  [Arya ad monitoring]('#') A Desktop application to monitor the advertisements of tv channels.
