@@ -1,9 +1,9 @@
 ## Hey 👋, Welcome to arya art!
 
-<a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="https://raw.githubusercontent.com/arya-soft/.github/main/images/instagram.png" alt="icon | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/company/arya-art-advertising/"><img src="https://raw.githubusercontent.com/arya-soft/.github/main/images/linkedin.png" alt="icon | LinkedIn" height="30"/></a>
+<a href="https://www.instagram.com/aryaadvertising/"><img src="https://raw.githubusercontent.com/arya-soft/.github/main/images/instagram.png" alt="icon | Instagram" height="30"/></a>
+<a href="https://www.facebook.com/aryaartadvertising"><img src="https://raw.githubusercontent.com/arya-soft/.github/main/images/facebook.png" alt="icon | Facebook" height="30"/></a>
 
-<a href="https://www.buymeacoffee.com/bBdtMQO"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/by-me-a-coffee.png?raw=true"></a>
-<a href="https://www.linkedin.com/in/waylonwalker/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 
 
 I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱, ML Engineer 🤖 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
