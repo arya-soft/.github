@@ -1,5 +1,4 @@
 <img src="https://raw.githubusercontent.com/arya-soft/.github/main/images/svg/header_en.svg" alt="wave svg"></img>
-
 <a href="https://www.linkedin.com/company/arya-art-advertising/"><img src="https://raw.githubusercontent.com/arya-soft/.github/main/images/linkedin.png" alt="icon | LinkedIn" height="30" /></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/aryaadvertising/"><img src="https://raw.githubusercontent.com/arya-soft/.github/main/images/instagram.png" alt="icon | Instagram" height="30"/></a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/aryaartadvertising"><img src="https://raw.githubusercontent.com/arya-soft/.github/main/images/facebook.png" alt="icon | Facebook" height="30"/></a>
@@ -9,7 +8,7 @@ We specialize in creating innovative websites🌐, systems, and mobile applicati
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="300px"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="270px"/>
   
 ### 🧐 More About Us:
 
