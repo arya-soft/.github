@@ -67,7 +67,7 @@ We specialize in creating innovative websites🌐, systems, and mobile applicati
 
 ### 🛠️ Our Projects
 <a href="https://system.aryaartagency.com" target="_blank" > 
-    <img alt="arya art system" src="https://raw.githubusercontent.com/arya-soft/.github/main/images/arya-art-logo-1.png" height="68" align="left"> 
+    <img alt="arya art system" src="https://raw.githubusercontent.com/arya-soft/.github/main/images/arya-art-logo.jpeg" height="68" align="left"> 
 </a>
 <a href="https://github.com/rahul-jha98/sheets-database" target="_blank"> <img alt="sheetsdatabase" src="./projects/sheetsdatabase.svg"  height="68" align="left"> </a>
 <a href="https://github.com/rahul-jha98/README_icons" target="_blank"> <img alt="readmeicons" src="./projects/readmeicons.svg" height="68" align="left"> </a>
