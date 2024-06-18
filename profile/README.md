@@ -9,7 +9,7 @@ We specialize in creating innovative websites🌐, systems, and mobile applicati
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="300px"/>
   
 ### 🧐 More About Us:
 
