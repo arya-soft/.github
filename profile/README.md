@@ -69,4 +69,4 @@ We specialize in creating innovative websites🌐, systems, and mobile applicati
 - [Arya art agency system](https://system.aryaartagency.com) - A system that manages all of the resources in arya art agency company.
 - [Arya art agency website](https://aryaartagency.com) - A website to showcase the work of arya art agency company.
 - [Arya art app](https://apps.apple.com/us/app/arya-art/id6499256352) - Mobile application for arya art agency company to connect with clients and users easily.
--  [Arya ad monitoring]('#') A Desktop application to monitor the advertisements of tv channels.
+- ${\color{lightblue}Arya \space monitoring}$ - A Desktop application to monitor the advertisements of tv channels.
